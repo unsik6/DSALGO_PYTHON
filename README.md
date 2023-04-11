@@ -67,7 +67,7 @@
    <tr>
    <td rowspan = 2><center>5</center></td>
 	   <td>Graph Traversal(<a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w05_01_Graph%20Traversal%2C%20Topological%20Sorting/w05_01_BFS.ipynb">BFS</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w05_01_Graph%20Traversal%2C%20Topological%20Sorting/w05_01_DFS.ipynb">DFS</a>), <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w05_01_Graph%20Traversal%2C%20Topological%20Sorting/w05_01_Topological%20Sorting.ipynb">Topological Sorting</a></td>
-	   <td>BOJ_1260, BOJ_2252</td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w05_01_Graph%20Traversal%2C%20Topological%20Sorting/w05_01_practice.ipynb">BOJ_1260, BOJ_2252</a></td>
    </tr>
       <tr>
 	   <td>Hash Table</td>
