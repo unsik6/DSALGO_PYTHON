@@ -1,3 +1,4 @@
+
 # Examples by Python
 
 - I am the main tutor of the group study for workers who are not major in Computer Science or Computer Engineering.
@@ -83,5 +84,24 @@
 	   <td rowspan = 2>Sorting</td>
 	   <td>Merge sorting, (Randomized) Quick sorting, </td>
 	   <td> </td>
+   </tr>
+   <tr>
+	   <td rowspan = 2><center>7</center></td>
+	   <td>Counting Sorting, Radix Sorting</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2>Divide-and-Conquer</td>
+	   <td>Divide-and-Conquer, Recursion Tree</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2><center>8</center></td>
+	   <td>Master Method, Maximum-Subarray Problem</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td>Dynamic Programming</td>
+	   <td>Eelements of DP, Fibonacci Function, LCS</td>
    </tr>
 </table>
