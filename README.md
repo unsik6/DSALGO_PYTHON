@@ -82,8 +82,8 @@
    </tr>
     <tr>
 	   <td rowspan = 2>Sorting</td>
-	   <td>Merge sorting, (Randomized) Quick sorting, </td>
-	   <td> </td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w06_02_Sorting%201%20-%20Merge%2C%20Quick/w06_02_Merge_Sort.ipynb">Merge sorting</a>, (Randomized) <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w06_02_Sorting%201%20-%20Merge%2C%20Quick/w06_02_Quick_Sort.ipynb">Quick sorting</a> </td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w06_02_Sorting%201%20-%20Merge%2C%20Quick/w06_02_practice.ipynb">BOJ_2750, BOJ_2751</a> </td>
    </tr>
    <tr>
 	   <td rowspan = 2><center>7</center></td>
