@@ -87,8 +87,8 @@
    </tr>
    <tr>
 	   <td rowspan = 2><center>7</center></td>
-	   <td>Counting Sorting, Radix Sorting</td>
-	   <td></td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w07_01_Sorting%202%20-%20Counting%2C%20Radix/w07_01_Counting_Sorting.ipynb">Counting Sorting</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w07_01_Sorting%202%20-%20Counting%2C%20Radix/w07_01_Radix_Sorting.ipynb">Radix Sorting</a></td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w07_01_Sorting%202%20-%20Counting%2C%20Radix/w07_01_practice.ipynb">BOJ_10989, BOJ_2751</a></td>
    </tr>
    <tr>
 	   <td rowspan = 2>Divide-and-Conquer</td>
