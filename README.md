@@ -1,4 +1,5 @@
 
+
 # Examples by Python
 
 - I am the main tutor of the group study for workers who are not major in Computer Science or Computer Engineering.
@@ -98,11 +99,11 @@
    <tr>
 	   <td rowspan = 2><center>8</center></td>
 	   <td>Master Method, Maximum-Subarray Problem</td>
-	   <td></td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w08_01_Divide-and-Conquer%20-%20Maximum-Subarray/w08_01_practice.ipynb">BOJ_1912</a></td>
    </tr>
    <tr>
 	   <td>Dynamic Programming</td>
-	   <td>Eelements of DP, Fibonacci Function, LCS</td>
-	   <td></td>
+	   <td>Eelements of DP, Fibonacci Function, LCS, Kadane's Algorithm(Maximum-Subarray)</td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w08_02_DP%20-%20Maximum-Subarray%2C%20LCS/w08_02_practice.ipynb">BOJ_9251, BOJ_1912</a></td>
    </tr>
 </table>
