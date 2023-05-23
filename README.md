@@ -1,5 +1,3 @@
-
-
 # Examples by Python
 
 - I am the main tutor of the group study for workers who are not major in Computer Science or Computer Engineering.
@@ -105,5 +103,50 @@
 	   <td>Dynamic Programming</td>
 	   <td>Eelements of DP, Fibonacci Function, LCS, Kadane's Algorithm(Maximum-Subarray)</td>
 	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w08_02_DP%20-%20Maximum-Subarray%2C%20LCS/w08_02_practice.ipynb">BOJ_9251, BOJ_1912</a></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2><center>9</center></td>
+	   <td>Greedy Algorithms</td>
+	   <td>Elements of Greedy Algorithms, Change-Making Problem, Activity-Selection Problem</td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w09_01_Greedy%20-%20Change-Making%2C%20Activity-Selection/w09_01_practice.ipynb">BOJ_5585, BOJ_1931</a></td>
+   </tr>
+   <tr>
+	   <td rowspan = 4>Graph Algorithms</td>
+	   <td>MST (Prim's Algorithm, Kruskal's Algorithm)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2><center>10</center></td>
+	   <td>Strongly Connected Components (Kosaraju's Algorithm, Tarjan's Algorithm)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td>Shortest Path (Dijksta's Algorithm, Bellman-Ford Algorithm)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	  <td rowspan = 2><center>11</center></td> 
+	   <td>Shortest Path (A<sup>*</sup> Algorithm, Floyd-Warshall Algorithm)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2>String Algorithms</td>
+	   <td>Pattern Matching (KMP Algorithm, Boyer-Moore Algorithm, BMH Algorithm)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2><center>12</center></td>
+	   <td>Multiple Pattern Matching (Aho-Corasick Automata), String Distance (Edit Distance)</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td rowspan = 2>Problem Solving</td>
+	   <td>Problem Classes</td>
+	   <td></td>
+   </tr>
+   <tr>
+	   <td><center>13</center></td>
+	   <td>Traveling Salesman Problem, Bit-Masking</td>
+	   <td></td>
    </tr>
 </table>
