@@ -119,7 +119,7 @@
    <tr>
 	   <td rowspan = 2><center>10</center></td>
 	   <td>Strongly Connected Components (Kosaraju's Algorithm, Tarjan's Algorithm)</td>
-	   <td><a href "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_01_SCC/w10_01_practice.ipynb">BOJ_2150</a></td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_01_SCC/w10_01_practice.ipynb">BOJ_2150</a></td>
    </tr>
    <tr>
 	   <td>Shortest Path (Dijksta's Algorithm, Bellman-Ford Algorithm)</td>
