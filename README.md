@@ -1,4 +1,5 @@
 
+
 # Examples by Python
 
 - I am the main tutor of the group study for workers who are not major in Computer Science or Computer Engineering.
@@ -112,7 +113,7 @@
 	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w09_01_Greedy%20-%20Change-Making%2C%20Activity-Selection/w09_01_practice.ipynb">BOJ_5585, BOJ_1931</a></td>
    </tr>
    <tr>
-	   <td rowspan = 4>Graph Algorithms</td>
+	   <td rowspan = 3>Graph Algorithms</td>
 	   <td>MST (Prim's Algorithm, Kruskal's Algorithm)</td>
 	   <td><a href ="https://github.com/unsik6/DSALGO_PYTHON/blob/main/w09_02_MST/w09_02_practice.ipynb">BOJ_1197</a></td>
    </tr>
@@ -122,31 +123,26 @@
 	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_01_SCC/w10_01_practice.ipynb">BOJ_2150</a></td>
    </tr>
    <tr>
-	   <td>Shortest Path (Dijksta's Algorithm, Bellman-Ford Algorithm)</td>
-	   <td></td>
+	   <td>Shortest Path (Dijksta's Algorithm, Bellman-Ford Algorithm, A<sup>*</sup> Algorithm, Floyd-Warshall Algorithm)</td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_02_Shortest%20Path_Bellman-Ford%2C%20Dijkstra%2C%20A-star%2C%20Folyd-Warshall/w10_02_Bellman-Ford.ipynb">BOJ_11657(Bellman-Ford Algorithm)</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_02_Shortest%20Path_Bellman-Ford%2C%20Dijkstra%2C%20A-star%2C%20Folyd-Warshall/w10_02_Dijkstra.ipynb">BOJ_1753(Dijkstra's Algorithm)</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_02_Shortest%20Path_Bellman-Ford%2C%20Dijkstra%2C%20A-star%2C%20Folyd-Warshall/w10_02_A-star.ipynb">BOJ_11112(A<sup>*</sup> Algorithm)</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w10_02_Shortest%20Path_Bellman-Ford%2C%20Dijkstra%2C%20A-star%2C%20Folyd-Warshall/w10_02_Floyd-Warshall.ipynb">BOJ_ 11403(Floyd-Warshall Algorithm)</a></td>
    </tr>
    <tr>
-	  <td rowspan = 2><center>11</center></td> 
-	   <td>Shortest Path (A<sup>*</sup> Algorithm, Floyd-Warshall Algorithm)</td>
-	   <td></td>
-   </tr>
-   <tr>
+   	  <td rowspan = 2><center>11</center></td> 
 	   <td rowspan = 2>String Algorithms</td>
 	   <td>Pattern Matching (KMP Algorithm, Boyer-Moore Algorithm, BMH Algorithm)</td>
 	   <td></td>
    </tr>
    <tr>
-	   <td rowspan = 2><center>12</center></td>
 	   <td>Multiple Pattern Matching (Aho-Corasick Automata), String Distance (Edit Distance)</td>
 	   <td></td>
    </tr>
    <tr>
+   	   <td rowspan = 2><center>12</center></td>
 	   <td rowspan = 2>Problem Solving</td>
 	   <td>Problem Classes</td>
 	   <td></td>
    </tr>
    <tr>
-	   <td><center>13</center></td>
 	   <td>Traveling Salesman Problem, Bit-Masking</td>
 	   <td></td>
    </tr>
