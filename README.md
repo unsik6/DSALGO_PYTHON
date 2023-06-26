@@ -130,7 +130,7 @@
    	  <td rowspan = 2><center>11</center></td> 
 	   <td rowspan = 2>String Algorithms</td>
 	   <td>Pattern Matching (KMP Algorithm, Boyer-Moore Algorithm, BMH Algorithm)</td>
-	   <td></td>
+	   <td>BOJ_1786(<a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w11_01_String%20Matching%201_KMP%2C%20BM/w11_01_KMP.ipynb">KMP Algorithm</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w11_01_String%20Matching%201_KMP%2C%20BM/w11_01_BM.ipynb">Boyer-Moore Algorithm</a>)</td>
    </tr>
    <tr>
 	   <td>Multiple Pattern Matching (Aho-Corasick Automata), String Distance (Edit Distance)</td>
