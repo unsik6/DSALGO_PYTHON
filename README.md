@@ -32,7 +32,7 @@
    </tr>
    <tr>
 	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w01_02_stack_queue/w01_02_Stack.ipynb">Stack</a>, <a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w01_02_stack_queue/w01_02_Queue.ipynb">Queue</a></td>
-	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w01_02_stack_queue/w01_02_practice.ipynb">BOJ_10828, BOJ_1935, BOJ_1918, BOJ_18258, BOJ_1021, BOJ_1021</a></td>
+	   <td><a href = "https://github.com/unsik6/DSALGO_PYTHON/blob/main/w01_02_stack_queue/w01_02_practice.ipynb">BOJ_10828, BOJ_1935, BOJ_1918, BOJ_18258, BOJ_1021</a></td>
    </tr>
    <tr>
 	   <td rowspan = 2><center>2</center></td>
